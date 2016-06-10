@@ -6,10 +6,10 @@ import Cart from './app.cart';
 export default class App extends React.Component {
   render() {
     return (
-    	<div className="container">
-    		<Catalog />
-    		<Cart />
-    	</div>
+      <div className="container">
+        <Catalog />
+        <Cart />
+      </div>
     );
   }
 }
