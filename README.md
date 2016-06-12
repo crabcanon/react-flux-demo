@@ -7,7 +7,7 @@
 * Clone the repo
 * `npm install`
 * `npm start`
-* Open 'http://localhost:8080'
+* Open http://localhost:8080
 
 ## License
 
